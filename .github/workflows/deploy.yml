@@ -38,6 +38,11 @@ jobs:
     - name: Build project
       run: npm run build
       
+    - name: Copy data files to dist directory
+      run: |
+        mkdir -p dist/data/crawled_results
+        cp -r public/data/crawled_results/*.json dist/data/crawled_results/
+      
     - name: Setup Pages
       uses: actions/configure-pages@v4
       

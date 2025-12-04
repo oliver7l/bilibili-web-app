@@ -151,6 +151,34 @@
   margin-bottom: 2px;
 }
 
+/* 加载状态样式 */
+.loading-container {
+  text-align: center;
+  padding: 40px 20px;
+  color: #666;
+}
+
+.loading-container p {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+/* 数据信息样式 */
+.data-info {
+  background-color: #e8f5e8;
+  border-left: 4px solid #4caf50;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+.data-info p {
+  margin: 0;
+  font-size: 14px;
+  color: #2e7d32;
+  font-weight: 500;
+}
+
 /* 视频播放器样式 */
 .video-player-container {
   position: fixed;
