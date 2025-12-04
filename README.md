@@ -92,4 +92,4 @@ npm run serve
 
 ## 许可证
 
-MIT License
+MIT License# 触发GitHub Pages重新部署
