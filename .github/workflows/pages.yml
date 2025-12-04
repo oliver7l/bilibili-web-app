@@ -1,0 +1,14 @@
+# 简单的GitHub Pages部署配置
+# 这个文件用于配置GitHub Pages的部署设置
+
+# 注意：GitHub Pages会自动检测到dist文件夹作为发布目录
+# 因为我们在webpack.config.js中配置了输出目录为dist
+
+# GitHub Pages设置说明：
+# 1. 在GitHub仓库的Settings -> Pages中
+# 2. 选择"GitHub Actions"作为部署源
+# 3. 选择"main"分支作为部署分支
+# 4. 选择"/ (root)"作为部署目录
+
+# 部署完成后，应用将可通过以下URL访问：
+# https://[你的GitHub用户名].github.io/[仓库名称]
