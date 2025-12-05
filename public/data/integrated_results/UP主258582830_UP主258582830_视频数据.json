@@ -1,0 +1,1442 @@
+[
+  {
+    "标题": "129.Agent专题：Agent 模块总结",
+    "链接": "https://www.bilibili.com/video/BV1qJCcB6EQn",
+    "BV号": "BV1qJCcB6EQn",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "128.Agent专题：Agent 综合评估指标",
+    "链接": "https://www.bilibili.com/video/BV1xYpMzGEzv",
+    "BV号": "BV1xYpMzGEzv",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "127.Agent专题：MCP 和 A2A 介绍",
+    "链接": "https://www.bilibili.com/video/BV1HXHQzsE1r",
+    "BV号": "BV1HXHQzsE1r",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "126.Agent专题：什么是 NDCG 指标",
+    "链接": "https://www.bilibili.com/video/BV1HpadzoErB",
+    "BV号": "BV1HpadzoErB",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "125.Agent专题：tools 中的评估方法",
+    "链接": "https://www.bilibili.com/video/BV1wuaPz1ET4",
+    "BV号": "BV1wuaPz1ET4",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "124.Agent专题：聊聊 Agent tools 吧",
+    "链接": "https://www.bilibili.com/video/BV1KXaHzuEea",
+    "BV号": "BV1KXaHzuEea",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "123.Agent专题：Memeory 评估可以使用哪些方法",
+    "链接": "https://www.bilibili.com/video/BV1MvhrzbEmN",
+    "BV号": "BV1MvhrzbEmN",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "122.Agent专题：Agent Memory 中提升Memory的方法",
+    "链接": "https://www.bilibili.com/video/BV1PZhizuEcz",
+    "BV号": "BV1PZhizuEcz",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "121.Agent专题：聊聊 Agent Memory 吧",
+    "链接": "https://www.bilibili.com/video/BV1qWhRz5EFC",
+    "BV号": "BV1qWhRz5EFC",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "120.Agent专题：Agent planning 的评估方法",
+    "链接": "https://www.bilibili.com/video/BV1Qre1zDEv6",
+    "BV号": "BV1Qre1zDEv6",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "119.Agent专题：聊聊 Agent planning 吧",
+    "链接": "https://www.bilibili.com/video/BV1MxvTzGEod",
+    "BV号": "BV1MxvTzGEod",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "118.Agent专题：介绍一下，Agent 设计框架",
+    "链接": "https://www.bilibili.com/video/BV1FxeozaEnQ",
+    "BV号": "BV1FxeozaEnQ",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "117.Agent专题：Agent和LLM有什么区别",
+    "链接": "https://www.bilibili.com/video/BV1m7ebzAEox",
+    "BV号": "BV1m7ebzAEox",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "116.Agent专题：什么是Agent，讲讲你对它的理解",
+    "链接": "https://www.bilibili.com/video/BV1rSY9zsE6p",
+    "BV号": "BV1rSY9zsE6p",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "115.Agent专题：开讲前资料推荐",
+    "链接": "https://www.bilibili.com/video/BV1k6eGzVEvH",
+    "BV号": "BV1k6eGzVEvH",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "114.RL专题：RL内容复习（下）",
+    "链接": "https://www.bilibili.com/video/BV1bhMJzGEBV",
+    "BV号": "BV1bhMJzGEBV",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "113.RL专题：RL内容复习（中）",
+    "链接": "https://www.bilibili.com/video/BV1tjM3zSEqK",
+    "BV号": "BV1tjM3zSEqK",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "112.RL专题：RL内容复习（上）",
+    "链接": "https://www.bilibili.com/video/BV1mqTizEEPL",
+    "BV号": "BV1mqTizEEPL",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "111.RL专题：GRPO算法的优缺点介绍",
+    "链接": "https://www.bilibili.com/video/BV1uwT9zTEi7",
+    "BV号": "BV1uwT9zTEi7",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "110.RL专题：GRPO如何处理训练过程中的稳定性问题？请说明裁剪机制和KL散度惩罚在GRPO中的作用。",
+    "链接": "https://www.bilibili.com/video/BV1ywTLzQEQP",
+    "BV号": "BV1ywTLzQEQP",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "109.RL专题：请详细解释GRPO中\"群组相对\"的优势计算方法，以及为什么这种方法比传统的价值函数估计更有效？",
+    "链接": "https://www.bilibili.com/video/BV1fBTtz1Ezt",
+    "BV号": "BV1fBTtz1Ezt",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "108.RL专题：GRPO介绍，以及GRPO和PPO对比",
+    "链接": "https://www.bilibili.com/video/BV1yGTJzhEw5",
+    "BV号": "BV1yGTJzhEw5",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "107.RL专题：介绍下DPO的损失函数和优缺点",
+    "链接": "https://www.bilibili.com/video/BV1G5jgzrEWA",
+    "BV号": "BV1G5jgzrEWA",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "106.RL专题：介绍下DPO执行的流程",
+    "链接": "https://www.bilibili.com/video/BV1hRjJzNE9J",
+    "BV号": "BV1hRjJzNE9J",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "105.RL专题：目前主流LLM训练的流程是怎样的？",
+    "链接": "https://www.bilibili.com/video/BV1tAJrzcEe5",
+    "BV号": "BV1tAJrzcEe5",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "104.RL专题：Actor-Critic算法有什么优缺点",
+    "链接": "https://www.bilibili.com/video/BV1FKEBzBETP",
+    "BV号": "BV1FKEBzBETP",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "103.RL专题：介绍一下Actor-Critic 算法",
+    "链接": "https://www.bilibili.com/video/BV1Y1EEzgEZB",
+    "BV号": "BV1Y1EEzgEZB",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "102.RL专题：DQN 和 Q-Learning 有什么不同",
+    "链接": "https://www.bilibili.com/video/BV1CSEgzeEWB",
+    "BV号": "BV1CSEgzeEWB",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "101.RL专题：介绍一下DQN的两个关键技巧",
+    "链接": "https://www.bilibili.com/video/BV11gVfzoE41",
+    "BV号": "BV11gVfzoE41",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "100.RL专题：了解DQN么，说说你对它的理解",
+    "链接": "https://www.bilibili.com/video/BV1vLVDzHEdR",
+    "BV号": "BV1vLVDzHEdR",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "99.RL专题：PPO中除了使用KL散度限制策略更新的幅度，还可以使用什么方法?",
+    "链接": "https://www.bilibili.com/video/BV1Bf5KzMEfL",
+    "BV号": "BV1Bf5KzMEfL",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "98.RL专题：PPO中为什么不直接计算 θ 与 θ′ 之间的距离？",
+    "链接": "https://www.bilibili.com/video/BV1CsVhzCEpv",
+    "BV号": "BV1CsVhzCEpv",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "97.RL专题：简述一下PPO算法。其与TRPO算法有何关系呢？",
+    "链接": "https://www.bilibili.com/video/BV13qLUzjEBK",
+    "BV号": "BV13qLUzjEBK",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "96.什么是重要性采样呢？",
+    "链接": "https://www.bilibili.com/video/BV1t1Lqz3EcB",
+    "BV号": "BV1t1Lqz3EcB",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "95.RL专题：REINFORCE 算法的执行过程",
+    "链接": "https://www.bilibili.com/video/BV1fqLwzfE7Y",
+    "BV号": "BV1fqLwzfE7Y",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "94.RL专题：策略梯度优化技巧",
+    "链接": "https://www.bilibili.com/video/BV1A45tzzEfc",
+    "BV号": "BV1A45tzzEfc",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "93.RL专题：手动推导一下策略梯度公式的计算过程。",
+    "链接": "https://www.bilibili.com/video/BV1tj5jz2EkE",
+    "BV号": "BV1tj5jz2EkE",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "92.RL专题：强化学习中策略梯度的理解",
+    "链接": "https://www.bilibili.com/video/BV1xroTY7Esi",
+    "BV号": "BV1xroTY7Esi",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "91.RL专题：蒙特卡洛方法和时序差分方法是无偏估计吗?另外谁的方差更大呢?为什么?",
+    "链接": "https://www.bilibili.com/video/BV1qio7YhE2M",
+    "BV号": "BV1qio7YhE2M",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "90.RL专题：什么是 Q-learning，能介绍一下细节么？",
+    "链接": "https://www.bilibili.com/video/BV1JJdUYSEH5",
+    "BV号": "BV1JJdUYSEH5",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "89.RL专题：什么是SARSA，能介绍一下细节么？",
+    "链接": "https://www.bilibili.com/video/BV12xdLYiEtK",
+    "BV号": "BV12xdLYiEtK",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "88.RL专题：策略中随机探索怎么实现",
+    "链接": "https://www.bilibili.com/video/BV1BtdTYAEY6",
+    "BV号": "BV1BtdTYAEY6",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "87.RL专题：on-policy和off-policy的区别",
+    "链接": "https://www.bilibili.com/video/BV1eydpYqEoV",
+    "BV号": "BV1eydpYqEoV",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "86.RL专题：手写n步的价值函数更新公式及期望方差讨论",
+    "链接": "https://www.bilibili.com/video/BV1BvRUY1EPK",
+    "BV号": "BV1BvRUY1EPK",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "85.RL专题：在强化学习习任务中，数据流不具备马尔可夫性质应该如何处理？",
+    "链接": "https://www.bilibili.com/video/BV1f9ZoYLE51",
+    "BV号": "BV1f9ZoYLE51",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "84.RL专题：请分别写出贝尔曼期望方程和贝尔曼最优方程",
+    "链接": "https://www.bilibili.com/video/BV1CKZmY4ExF",
+    "BV号": "BV1CKZmY4ExF",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "83.RL专题：贝尔曼方程常见的计算方法",
+    "链接": "https://www.bilibili.com/video/BV1RpfMYKE3s",
+    "BV号": "BV1RpfMYKE3s",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "82.RL专题：贝尔曼方程解析解难求原因?",
+    "链接": "https://www.bilibili.com/video/BV18jfFYuEY2",
+    "BV号": "BV18jfFYuEY2",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "81.RL专题：什么是贝尔曼方程，手推下贝尔曼方程",
+    "链接": "https://www.bilibili.com/video/BV1hyZHYvEzr",
+    "BV号": "BV1hyZHYvEzr",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "80.RL专题：为什么在MD中要有折扣因子？",
+    "链接": "https://www.bilibili.com/video/BV1opZBY9EH8",
+    "BV号": "BV1opZBY9EH8",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "79.RL专题：什么是MDP？",
+    "链接": "https://www.bilibili.com/video/BV1EqZAYtEKG",
+    "BV号": "BV1EqZAYtEKG",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "78.RL专题：强化学习常见分",
+    "链接": "https://www.bilibili.com/video/BV1EnoRYTEQF",
+    "BV号": "BV1EnoRYTEQF",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "77.RL专题：强化学习发展历史",
+    "链接": "https://www.bilibili.com/video/BV1mBZVYqEb4",
+    "BV号": "BV1mBZVYqEb4",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "76.RL专题：RL和监督、非监督、深度学习的一些区别",
+    "链接": "https://www.bilibili.com/video/BV1bToiYPEqP",
+    "BV号": "BV1bToiYPEqP",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "75.RL专题：什么是强化学习？",
+    "链接": "https://www.bilibili.com/video/BV1MQo4YGEmq",
+    "BV号": "BV1MQo4YGEmq",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "74.DeepSeek专题复习（下）",
+    "链接": "https://www.bilibili.com/video/BV1KXXaYGEqn",
+    "BV号": "BV1KXXaYGEqn",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "73.DeepSeek专题复习（上）",
+    "链接": "https://www.bilibili.com/video/BV13aXxYaEMX",
+    "BV号": "BV13aXxYaEMX",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "72.DeepSeek专题：DS蒸馏中一些小细节",
+    "链接": "https://www.bilibili.com/video/BV1wJXCYeES9",
+    "BV号": "BV1wJXCYeES9",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "71.DeepSeek专题：其蒸馏是怎么实现的？",
+    "链接": "https://www.bilibili.com/video/BV17eXeYAEWx",
+    "BV号": "BV17eXeYAEWx",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "70.DeepSeek专题：怎么避免RL的过渡拟合？",
+    "链接": "https://www.bilibili.com/video/BV19GQoYQEHd",
+    "BV号": "BV19GQoYQEHd",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "69.DeepSeek专题：规则化奖励和自我认知问题",
+    "链接": "https://www.bilibili.com/video/BV1ZkX7YQEJ8",
+    "BV号": "BV1ZkX7YQEJ8",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "68.DeepSeek专题：介绍下R1训练的四个阶段",
+    "链接": "https://www.bilibili.com/video/BV1TNXTYMEcp",
+    "BV号": "BV1TNXTYMEcp",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "67.DeepSeek专题：怎么理解MTP？",
+    "链接": "https://www.bilibili.com/video/BV16qQaYbELQ",
+    "BV号": "BV16qQaYbELQ",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "66.DeepSeek专题：Dynamic Tanh (DyT) 和之前的方法相比有哪些优化？",
+    "链接": "https://www.bilibili.com/video/BV1t9QDY8ECx",
+    "BV号": "BV1t9QDY8ECx",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "65.DeepSeek专题：RMS Norm 相比于 Layer Norm 有什么特点？",
+    "链接": "https://www.bilibili.com/video/BV1eHQ6YrEZ3",
+    "BV号": "BV1eHQ6YrEZ3",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "64.DeepSeek专题：Batch Norm 和 Layer Norm 的区别",
+    "链接": "https://www.bilibili.com/video/BV161QPYJErQ",
+    "BV号": "BV161QPYJErQ",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "63.DeepSeek专题：MLA中位置编码有什么特殊性？",
+    "链接": "https://www.bilibili.com/video/BV1XQQnYJEvf",
+    "BV号": "BV1XQQnYJEvf",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "62.DeepSeek专题：降维、升维矩阵怎么来的？",
+    "链接": "https://www.bilibili.com/video/BV1hWQLYPEtk",
+    "BV号": "BV1hWQLYPEtk",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "61.DeepSeek专题：MLA有什么作用",
+    "链接": "https://www.bilibili.com/video/BV13sRVYiERn",
+    "BV号": "BV13sRVYiERn",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "60.DeepSeek专题：什么是GRPO？",
+    "链接": "https://www.bilibili.com/video/BV1heRbYyEFB",
+    "BV号": "BV1heRbYyEFB",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "59.DeepSeek专题：MOE 负载不均衡怎么解决？",
+    "链接": "https://www.bilibili.com/video/BV1QBRHYZE6c",
+    "BV号": "BV1QBRHYZE6c",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "58.DeepSeek专题：MOE 主要有哪些优化？",
+    "链接": "https://www.bilibili.com/video/BV1i292YiEQk",
+    "BV号": "BV1i292YiEQk",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "57.DeepSeek专题：DeepSeek创新点有哪些",
+    "链接": "https://www.bilibili.com/video/BV1hXRNY5EcL",
+    "BV号": "BV1hXRNY5EcL",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "56.DeepSeek专题：冷启动数据相关问题",
+    "链接": "https://www.bilibili.com/video/BV14s9ZYnEbh",
+    "BV号": "BV14s9ZYnEbh",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（五十五） -- DeepSeek专题",
+    "链接": "https://www.bilibili.com/video/BV1S99HY9Eax",
+    "BV号": "BV1S99HY9Eax",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（五十四） -- DeepSeek专题",
+    "链接": "https://www.bilibili.com/video/BV1Js9BYUEi2",
+    "BV号": "BV1Js9BYUEi2",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（五十三） -- DeepSeek专题",
+    "链接": "https://www.bilibili.com/video/BV11pXfYmEeQ",
+    "BV号": "BV11pXfYmEeQ",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（五十二） -- DeepSeek专题",
+    "链接": "https://www.bilibili.com/video/BV1CVXXYbE9J",
+    "BV号": "BV1CVXXYbE9J",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（五十一） -- DeepSeek专题",
+    "链接": "https://www.bilibili.com/video/BV1gR9gYsEHY",
+    "BV号": "BV1gR9gYsEHY",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（五十） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV155PxePE2z",
+    "BV号": "BV155PxePE2z",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十九） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV1b7AmemEyY",
+    "BV号": "BV1b7AmemEyY",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十八） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV1kDPueeE5y",
+    "BV号": "BV1kDPueeE5y",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十七） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV1x7PKe8EpZ",
+    "BV号": "BV1x7PKe8EpZ",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十六） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV1GpkZYaEzs",
+    "BV号": "BV1GpkZYaEzs",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十五） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV14pC5YiEyH",
+    "BV号": "BV14pC5YiEyH",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十四） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV18MkPYGEdf",
+    "BV号": "BV18MkPYGEdf",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十三） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV1BckJYAEsW",
+    "BV号": "BV1BckJYAEsW",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十一） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1jhk3Y6ECp",
+    "BV号": "BV1jhk3Y6ECp",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十二） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV1jhk3Y6E6c",
+    "BV号": "BV1jhk3Y6E6c",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1rqqaYtEgs",
+    "BV号": "BV1rqqaYtEgs",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十九） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1dqqUYaEZ6",
+    "BV号": "BV1dqqUYaEZ6",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十八） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV19sq6YBEBV",
+    "BV号": "BV19sq6YBEBV",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十七） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV18gqNYwERY",
+    "BV号": "BV18gqNYwERY",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十六） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1gkiBYxE6L",
+    "BV号": "BV1gkiBYxE6L",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十五） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1ZFiZYREDq",
+    "BV号": "BV1ZFiZYREDq",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十四） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1bWiUYEEHz",
+    "BV号": "BV1bWiUYEEHz",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十三） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV15ezmYYEeN",
+    "BV号": "BV15ezmYYEeN",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十二） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1Xa6KY2EH1",
+    "BV号": "BV1Xa6KY2EH1",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十一） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1shzZYLE9q",
+    "BV号": "BV1shzZYLE9q",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1RbzpYfEEC",
+    "BV号": "BV1RbzpYfEEC",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（二十九） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV16uzzYmEFR",
+    "BV号": "BV16uzzYmEFR",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（二十八） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV18hz8YrEto",
+    "BV号": "BV18hz8YrEto",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（二十七） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1cMBdY8EUg",
+    "BV号": "BV1cMBdY8EUg",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（二十六） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1Tbz5YZEoW",
+    "BV号": "BV1Tbz5YZEoW",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（二十五） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1sezAYREVs",
+    "BV号": "BV1sezAYREVs",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（二十四） -- 知识蒸馏专题",
+    "链接": "https://www.bilibili.com/video/BV167BtYUEsS",
+    "BV号": "BV167BtYUEsS",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（二十三） -- 知识蒸馏专题",
+    "链接": "https://www.bilibili.com/video/BV1tnBmYEEJE",
+    "BV号": "BV1tnBmYEEJE",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（二十二） -- 知识蒸馏专题",
+    "链接": "https://www.bilibili.com/video/BV1H7BzYEEKB",
+    "BV号": "BV1H7BzYEEKB",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（二十一） -- 知识蒸馏专题",
+    "链接": "https://www.bilibili.com/video/BV1K3UDYEEgt",
+    "BV号": "BV1K3UDYEEgt",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（二十） -- 知识蒸馏专题",
+    "链接": "https://www.bilibili.com/video/BV1ZASgYsE6r",
+    "BV号": "BV1ZASgYsE6r",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十九） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV1ZmScYYEdG",
+    "BV号": "BV1ZmScYYEdG",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十八） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV1e4UWYpEES",
+    "BV号": "BV1e4UWYpEES",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十七） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV1C6U6YmEEW",
+    "BV号": "BV1C6U6YmEEW",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十六） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV13kUzYtETV",
+    "BV号": "BV13kUzYtETV",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十五） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV19MUeYLETH",
+    "BV号": "BV19MUeYLETH",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十四） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV13tmfY1ERd",
+    "BV号": "BV13tmfY1ERd",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "# LLM基础常见面试题（十三） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV1cYmDYgErR",
+    "BV号": "BV1cYmDYgErR",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十二） -- [RAG]如何评价RAG项目效果的好坏",
+    "链接": "https://www.bilibili.com/video/BV1edUKYzEW7",
+    "BV号": "BV1edUKYzEW7",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十一） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV1TrmbYsE6i",
+    "BV号": "BV1TrmbYsE6i",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV1tvmmY3EgS",
+    "BV号": "BV1tvmmY3EgS",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "129.Agent专题：Agent 模块总结",
+    "链接": "https://www.bilibili.com/video/BV1qJCcB6EQn",
+    "BV号": "BV1qJCcB6EQn",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "128.Agent专题：Agent 综合评估指标",
+    "链接": "https://www.bilibili.com/video/BV1xYpMzGEzv",
+    "BV号": "BV1xYpMzGEzv",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "127.Agent专题：MCP 和 A2A 介绍",
+    "链接": "https://www.bilibili.com/video/BV1HXHQzsE1r",
+    "BV号": "BV1HXHQzsE1r",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "126.Agent专题：什么是 NDCG 指标",
+    "链接": "https://www.bilibili.com/video/BV1HpadzoErB",
+    "BV号": "BV1HpadzoErB",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "125.Agent专题：tools 中的评估方法",
+    "链接": "https://www.bilibili.com/video/BV1wuaPz1ET4",
+    "BV号": "BV1wuaPz1ET4",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "124.Agent专题：聊聊 Agent tools 吧",
+    "链接": "https://www.bilibili.com/video/BV1KXaHzuEea",
+    "BV号": "BV1KXaHzuEea",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "123.Agent专题：Memeory 评估可以使用哪些方法",
+    "链接": "https://www.bilibili.com/video/BV1MvhrzbEmN",
+    "BV号": "BV1MvhrzbEmN",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "122.Agent专题：Agent Memory 中提升Memory的方法",
+    "链接": "https://www.bilibili.com/video/BV1PZhizuEcz",
+    "BV号": "BV1PZhizuEcz",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "121.Agent专题：聊聊 Agent Memory 吧",
+    "链接": "https://www.bilibili.com/video/BV1qWhRz5EFC",
+    "BV号": "BV1qWhRz5EFC",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "120.Agent专题：Agent planning 的评估方法",
+    "链接": "https://www.bilibili.com/video/BV1Qre1zDEv6",
+    "BV号": "BV1Qre1zDEv6",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "119.Agent专题：聊聊 Agent planning 吧",
+    "链接": "https://www.bilibili.com/video/BV1MxvTzGEod",
+    "BV号": "BV1MxvTzGEod",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "118.Agent专题：介绍一下，Agent 设计框架",
+    "链接": "https://www.bilibili.com/video/BV1FxeozaEnQ",
+    "BV号": "BV1FxeozaEnQ",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "117.Agent专题：Agent和LLM有什么区别",
+    "链接": "https://www.bilibili.com/video/BV1m7ebzAEox",
+    "BV号": "BV1m7ebzAEox",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "116.Agent专题：什么是Agent，讲讲你对它的理解",
+    "链接": "https://www.bilibili.com/video/BV1rSY9zsE6p",
+    "BV号": "BV1rSY9zsE6p",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "115.Agent专题：开讲前资料推荐",
+    "链接": "https://www.bilibili.com/video/BV1k6eGzVEvH",
+    "BV号": "BV1k6eGzVEvH",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "114.RL专题：RL内容复习（下）",
+    "链接": "https://www.bilibili.com/video/BV1bhMJzGEBV",
+    "BV号": "BV1bhMJzGEBV",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "113.RL专题：RL内容复习（中）",
+    "链接": "https://www.bilibili.com/video/BV1tjM3zSEqK",
+    "BV号": "BV1tjM3zSEqK",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "112.RL专题：RL内容复习（上）",
+    "链接": "https://www.bilibili.com/video/BV1mqTizEEPL",
+    "BV号": "BV1mqTizEEPL",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "111.RL专题：GRPO算法的优缺点介绍",
+    "链接": "https://www.bilibili.com/video/BV1uwT9zTEi7",
+    "BV号": "BV1uwT9zTEi7",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "110.RL专题：GRPO如何处理训练过程中的稳定性问题？请说明裁剪机制和KL散度惩罚在GRPO中的作用。",
+    "链接": "https://www.bilibili.com/video/BV1ywTLzQEQP",
+    "BV号": "BV1ywTLzQEQP",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "109.RL专题：请详细解释GRPO中\"群组相对\"的优势计算方法，以及为什么这种方法比传统的价值函数估计更有效？",
+    "链接": "https://www.bilibili.com/video/BV1fBTtz1Ezt",
+    "BV号": "BV1fBTtz1Ezt",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "108.RL专题：GRPO介绍，以及GRPO和PPO对比",
+    "链接": "https://www.bilibili.com/video/BV1yGTJzhEw5",
+    "BV号": "BV1yGTJzhEw5",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "107.RL专题：介绍下DPO的损失函数和优缺点",
+    "链接": "https://www.bilibili.com/video/BV1G5jgzrEWA",
+    "BV号": "BV1G5jgzrEWA",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "106.RL专题：介绍下DPO执行的流程",
+    "链接": "https://www.bilibili.com/video/BV1hRjJzNE9J",
+    "BV号": "BV1hRjJzNE9J",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "105.RL专题：目前主流LLM训练的流程是怎样的？",
+    "链接": "https://www.bilibili.com/video/BV1tAJrzcEe5",
+    "BV号": "BV1tAJrzcEe5",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "104.RL专题：Actor-Critic算法有什么优缺点",
+    "链接": "https://www.bilibili.com/video/BV1FKEBzBETP",
+    "BV号": "BV1FKEBzBETP",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "103.RL专题：介绍一下Actor-Critic 算法",
+    "链接": "https://www.bilibili.com/video/BV1Y1EEzgEZB",
+    "BV号": "BV1Y1EEzgEZB",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "102.RL专题：DQN 和 Q-Learning 有什么不同",
+    "链接": "https://www.bilibili.com/video/BV1CSEgzeEWB",
+    "BV号": "BV1CSEgzeEWB",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "101.RL专题：介绍一下DQN的两个关键技巧",
+    "链接": "https://www.bilibili.com/video/BV11gVfzoE41",
+    "BV号": "BV11gVfzoE41",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "100.RL专题：了解DQN么，说说你对它的理解",
+    "链接": "https://www.bilibili.com/video/BV1vLVDzHEdR",
+    "BV号": "BV1vLVDzHEdR",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "99.RL专题：PPO中除了使用KL散度限制策略更新的幅度，还可以使用什么方法?",
+    "链接": "https://www.bilibili.com/video/BV1Bf5KzMEfL",
+    "BV号": "BV1Bf5KzMEfL",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "98.RL专题：PPO中为什么不直接计算 θ 与 θ′ 之间的距离？",
+    "链接": "https://www.bilibili.com/video/BV1CsVhzCEpv",
+    "BV号": "BV1CsVhzCEpv",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "97.RL专题：简述一下PPO算法。其与TRPO算法有何关系呢？",
+    "链接": "https://www.bilibili.com/video/BV13qLUzjEBK",
+    "BV号": "BV13qLUzjEBK",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "96.什么是重要性采样呢？",
+    "链接": "https://www.bilibili.com/video/BV1t1Lqz3EcB",
+    "BV号": "BV1t1Lqz3EcB",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "95.RL专题：REINFORCE 算法的执行过程",
+    "链接": "https://www.bilibili.com/video/BV1fqLwzfE7Y",
+    "BV号": "BV1fqLwzfE7Y",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "94.RL专题：策略梯度优化技巧",
+    "链接": "https://www.bilibili.com/video/BV1A45tzzEfc",
+    "BV号": "BV1A45tzzEfc",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "93.RL专题：手动推导一下策略梯度公式的计算过程。",
+    "链接": "https://www.bilibili.com/video/BV1tj5jz2EkE",
+    "BV号": "BV1tj5jz2EkE",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "92.RL专题：强化学习中策略梯度的理解",
+    "链接": "https://www.bilibili.com/video/BV1xroTY7Esi",
+    "BV号": "BV1xroTY7Esi",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "91.RL专题：蒙特卡洛方法和时序差分方法是无偏估计吗?另外谁的方差更大呢?为什么?",
+    "链接": "https://www.bilibili.com/video/BV1qio7YhE2M",
+    "BV号": "BV1qio7YhE2M",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "90.RL专题：什么是 Q-learning，能介绍一下细节么？",
+    "链接": "https://www.bilibili.com/video/BV1JJdUYSEH5",
+    "BV号": "BV1JJdUYSEH5",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "89.RL专题：什么是SARSA，能介绍一下细节么？",
+    "链接": "https://www.bilibili.com/video/BV12xdLYiEtK",
+    "BV号": "BV12xdLYiEtK",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "88.RL专题：策略中随机探索怎么实现",
+    "链接": "https://www.bilibili.com/video/BV1BtdTYAEY6",
+    "BV号": "BV1BtdTYAEY6",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "87.RL专题：on-policy和off-policy的区别",
+    "链接": "https://www.bilibili.com/video/BV1eydpYqEoV",
+    "BV号": "BV1eydpYqEoV",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "86.RL专题：手写n步的价值函数更新公式及期望方差讨论",
+    "链接": "https://www.bilibili.com/video/BV1BvRUY1EPK",
+    "BV号": "BV1BvRUY1EPK",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "85.RL专题：在强化学习习任务中，数据流不具备马尔可夫性质应该如何处理？",
+    "链接": "https://www.bilibili.com/video/BV1f9ZoYLE51",
+    "BV号": "BV1f9ZoYLE51",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "84.RL专题：请分别写出贝尔曼期望方程和贝尔曼最优方程",
+    "链接": "https://www.bilibili.com/video/BV1CKZmY4ExF",
+    "BV号": "BV1CKZmY4ExF",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "83.RL专题：贝尔曼方程常见的计算方法",
+    "链接": "https://www.bilibili.com/video/BV1RpfMYKE3s",
+    "BV号": "BV1RpfMYKE3s",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "82.RL专题：贝尔曼方程解析解难求原因?",
+    "链接": "https://www.bilibili.com/video/BV18jfFYuEY2",
+    "BV号": "BV18jfFYuEY2",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "81.RL专题：什么是贝尔曼方程，手推下贝尔曼方程",
+    "链接": "https://www.bilibili.com/video/BV1hyZHYvEzr",
+    "BV号": "BV1hyZHYvEzr",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "80.RL专题：为什么在MD中要有折扣因子？",
+    "链接": "https://www.bilibili.com/video/BV1opZBY9EH8",
+    "BV号": "BV1opZBY9EH8",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "79.RL专题：什么是MDP？",
+    "链接": "https://www.bilibili.com/video/BV1EqZAYtEKG",
+    "BV号": "BV1EqZAYtEKG",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "78.RL专题：强化学习常见分",
+    "链接": "https://www.bilibili.com/video/BV1EnoRYTEQF",
+    "BV号": "BV1EnoRYTEQF",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "77.RL专题：强化学习发展历史",
+    "链接": "https://www.bilibili.com/video/BV1mBZVYqEb4",
+    "BV号": "BV1mBZVYqEb4",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "76.RL专题：RL和监督、非监督、深度学习的一些区别",
+    "链接": "https://www.bilibili.com/video/BV1bToiYPEqP",
+    "BV号": "BV1bToiYPEqP",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "75.RL专题：什么是强化学习？",
+    "链接": "https://www.bilibili.com/video/BV1MQo4YGEmq",
+    "BV号": "BV1MQo4YGEmq",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "74.DeepSeek专题复习（下）",
+    "链接": "https://www.bilibili.com/video/BV1KXXaYGEqn",
+    "BV号": "BV1KXXaYGEqn",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "73.DeepSeek专题复习（上）",
+    "链接": "https://www.bilibili.com/video/BV13aXxYaEMX",
+    "BV号": "BV13aXxYaEMX",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "72.DeepSeek专题：DS蒸馏中一些小细节",
+    "链接": "https://www.bilibili.com/video/BV1wJXCYeES9",
+    "BV号": "BV1wJXCYeES9",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "71.DeepSeek专题：其蒸馏是怎么实现的？",
+    "链接": "https://www.bilibili.com/video/BV17eXeYAEWx",
+    "BV号": "BV17eXeYAEWx",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "70.DeepSeek专题：怎么避免RL的过渡拟合？",
+    "链接": "https://www.bilibili.com/video/BV19GQoYQEHd",
+    "BV号": "BV19GQoYQEHd",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "69.DeepSeek专题：规则化奖励和自我认知问题",
+    "链接": "https://www.bilibili.com/video/BV1ZkX7YQEJ8",
+    "BV号": "BV1ZkX7YQEJ8",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "68.DeepSeek专题：介绍下R1训练的四个阶段",
+    "链接": "https://www.bilibili.com/video/BV1TNXTYMEcp",
+    "BV号": "BV1TNXTYMEcp",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "67.DeepSeek专题：怎么理解MTP？",
+    "链接": "https://www.bilibili.com/video/BV16qQaYbELQ",
+    "BV号": "BV16qQaYbELQ",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "66.DeepSeek专题：Dynamic Tanh (DyT) 和之前的方法相比有哪些优化？",
+    "链接": "https://www.bilibili.com/video/BV1t9QDY8ECx",
+    "BV号": "BV1t9QDY8ECx",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "65.DeepSeek专题：RMS Norm 相比于 Layer Norm 有什么特点？",
+    "链接": "https://www.bilibili.com/video/BV1eHQ6YrEZ3",
+    "BV号": "BV1eHQ6YrEZ3",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "64.DeepSeek专题：Batch Norm 和 Layer Norm 的区别",
+    "链接": "https://www.bilibili.com/video/BV161QPYJErQ",
+    "BV号": "BV161QPYJErQ",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "63.DeepSeek专题：MLA中位置编码有什么特殊性？",
+    "链接": "https://www.bilibili.com/video/BV1XQQnYJEvf",
+    "BV号": "BV1XQQnYJEvf",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "62.DeepSeek专题：降维、升维矩阵怎么来的？",
+    "链接": "https://www.bilibili.com/video/BV1hWQLYPEtk",
+    "BV号": "BV1hWQLYPEtk",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "61.DeepSeek专题：MLA有什么作用",
+    "链接": "https://www.bilibili.com/video/BV13sRVYiERn",
+    "BV号": "BV13sRVYiERn",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "60.DeepSeek专题：什么是GRPO？",
+    "链接": "https://www.bilibili.com/video/BV1heRbYyEFB",
+    "BV号": "BV1heRbYyEFB",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "59.DeepSeek专题：MOE 负载不均衡怎么解决？",
+    "链接": "https://www.bilibili.com/video/BV1QBRHYZE6c",
+    "BV号": "BV1QBRHYZE6c",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "58.DeepSeek专题：MOE 主要有哪些优化？",
+    "链接": "https://www.bilibili.com/video/BV1i292YiEQk",
+    "BV号": "BV1i292YiEQk",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "57.DeepSeek专题：DeepSeek创新点有哪些",
+    "链接": "https://www.bilibili.com/video/BV1hXRNY5EcL",
+    "BV号": "BV1hXRNY5EcL",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "56.DeepSeek专题：冷启动数据相关问题",
+    "链接": "https://www.bilibili.com/video/BV14s9ZYnEbh",
+    "BV号": "BV14s9ZYnEbh",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（五十五） -- DeepSeek专题",
+    "链接": "https://www.bilibili.com/video/BV1S99HY9Eax",
+    "BV号": "BV1S99HY9Eax",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（五十四） -- DeepSeek专题",
+    "链接": "https://www.bilibili.com/video/BV1Js9BYUEi2",
+    "BV号": "BV1Js9BYUEi2",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（五十三） -- DeepSeek专题",
+    "链接": "https://www.bilibili.com/video/BV11pXfYmEeQ",
+    "BV号": "BV11pXfYmEeQ",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（五十二） -- DeepSeek专题",
+    "链接": "https://www.bilibili.com/video/BV1CVXXYbE9J",
+    "BV号": "BV1CVXXYbE9J",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（五十一） -- DeepSeek专题",
+    "链接": "https://www.bilibili.com/video/BV1gR9gYsEHY",
+    "BV号": "BV1gR9gYsEHY",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（五十） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV155PxePE2z",
+    "BV号": "BV155PxePE2z",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十九） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV1b7AmemEyY",
+    "BV号": "BV1b7AmemEyY",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十八） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV1kDPueeE5y",
+    "BV号": "BV1kDPueeE5y",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十七） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV1x7PKe8EpZ",
+    "BV号": "BV1x7PKe8EpZ",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十六） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV1GpkZYaEzs",
+    "BV号": "BV1GpkZYaEzs",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十五） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV14pC5YiEyH",
+    "BV号": "BV14pC5YiEyH",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十四） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV18MkPYGEdf",
+    "BV号": "BV18MkPYGEdf",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十三） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV1BckJYAEsW",
+    "BV号": "BV1BckJYAEsW",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十一） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1jhk3Y6ECp",
+    "BV号": "BV1jhk3Y6ECp",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十二） -- transformer专题",
+    "链接": "https://www.bilibili.com/video/BV1jhk3Y6E6c",
+    "BV号": "BV1jhk3Y6E6c",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（四十） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1rqqaYtEgs",
+    "BV号": "BV1rqqaYtEgs",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十九） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1dqqUYaEZ6",
+    "BV号": "BV1dqqUYaEZ6",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十八） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV19sq6YBEBV",
+    "BV号": "BV19sq6YBEBV",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十七） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV18gqNYwERY",
+    "BV号": "BV18gqNYwERY",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十六） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1gkiBYxE6L",
+    "BV号": "BV1gkiBYxE6L",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十五） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1ZFiZYREDq",
+    "BV号": "BV1ZFiZYREDq",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十四） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1bWiUYEEHz",
+    "BV号": "BV1bWiUYEEHz",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十三） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV15ezmYYEeN",
+    "BV号": "BV15ezmYYEeN",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十二） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1Xa6KY2EH1",
+    "BV号": "BV1Xa6KY2EH1",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十一） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1shzZYLE9q",
+    "BV号": "BV1shzZYLE9q",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（三十） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1RbzpYfEEC",
+    "BV号": "BV1RbzpYfEEC",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（二十九） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV16uzzYmEFR",
+    "BV号": "BV16uzzYmEFR",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（二十八） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV18hz8YrEto",
+    "BV号": "BV18hz8YrEto",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（二十七） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1cMBdY8EUg",
+    "BV号": "BV1cMBdY8EUg",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（二十六） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1Tbz5YZEoW",
+    "BV号": "BV1Tbz5YZEoW",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM常见面试题（二十五） -- 微调专题",
+    "链接": "https://www.bilibili.com/video/BV1sezAYREVs",
+    "BV号": "BV1sezAYREVs",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（二十四） -- 知识蒸馏专题",
+    "链接": "https://www.bilibili.com/video/BV167BtYUEsS",
+    "BV号": "BV167BtYUEsS",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（二十三） -- 知识蒸馏专题",
+    "链接": "https://www.bilibili.com/video/BV1tnBmYEEJE",
+    "BV号": "BV1tnBmYEEJE",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（二十二） -- 知识蒸馏专题",
+    "链接": "https://www.bilibili.com/video/BV1H7BzYEEKB",
+    "BV号": "BV1H7BzYEEKB",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（二十一） -- 知识蒸馏专题",
+    "链接": "https://www.bilibili.com/video/BV1K3UDYEEgt",
+    "BV号": "BV1K3UDYEEgt",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（二十） -- 知识蒸馏专题",
+    "链接": "https://www.bilibili.com/video/BV1ZASgYsE6r",
+    "BV号": "BV1ZASgYsE6r",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十九） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV1ZmScYYEdG",
+    "BV号": "BV1ZmScYYEdG",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十八） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV1e4UWYpEES",
+    "BV号": "BV1e4UWYpEES",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十七） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV1C6U6YmEEW",
+    "BV号": "BV1C6U6YmEEW",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十六） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV13kUzYtETV",
+    "BV号": "BV13kUzYtETV",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十五） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV19MUeYLETH",
+    "BV号": "BV19MUeYLETH",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十四） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV13tmfY1ERd",
+    "BV号": "BV13tmfY1ERd",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "# LLM基础常见面试题（十三） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV1cYmDYgErR",
+    "BV号": "BV1cYmDYgErR",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十二） -- [RAG]如何评价RAG项目效果的好坏",
+    "链接": "https://www.bilibili.com/video/BV1edUKYzEW7",
+    "BV号": "BV1edUKYzEW7",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十一） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV1TrmbYsE6i",
+    "BV号": "BV1TrmbYsE6i",
+    "UP主": "UP主258582830"
+  },
+  {
+    "标题": "LLM基础常见面试题（十） -- RAG专题",
+    "链接": "https://www.bilibili.com/video/BV1tvmmY3EgS",
+    "BV号": "BV1tvmmY3EgS",
+    "UP主": "UP主258582830"
+  }
+]

@@ -3,127 +3,126 @@ import React, { useState, useEffect } from 'react';
 // 获取所有数据文件列表
 const getAllDataFiles = async () => {
   try {
-    // 这里我们无法直接读取目录，所以需要预定义所有可能的文件
-    // 在实际项目中，可以通过后端API获取文件列表
-    const allFiles = [
-      'up_10119428_videos_smart_20251122_161031.json',
-      'up_11131476_videos_smart_20251122_115836.json',
-      'up_1140672573_videos_smart_20251122_131604.json',
-      'up_11646119_videos_smart_20251122_140018.json',
-      'up_11870568_videos_smart_20251122_151136.json',
-      'up_125526_videos_smart_20251122_201638.json',
-      'up_12855005_videos_smart_20251122_173916.json',
-      'up_13164144_videos_smart_20251122_142913.json',
-      'up_13354765_videos_smart_20251122_134107.json',
-      'up_1335713025_videos_smart_20251122_190032.json',
-      'up_1359172699_videos_smart_20251122_155817.json',
-      'up_1372433_videos_smart_20251122_145225.json',
-      'up_14110780_videos_smart_20251122_154737.json',
-      'up_1455861172_videos_smart_20251122_161343.json',
-      'up_1458143131_videos_smart_20251122_162228.json',
-      'up_14804670_videos_smart_20251122_123625.json',
-      'up_1577804_videos_smart_20251122_205616.json',
-      'up_15960317_videos_smart_20251122_165930.json',
-      'up_1629347259_videos_smart_20251122_152029.json',
-      'up_1653246909_videos_smart_20251122_151715.json',
-      'up_168598_videos_smart_20251122_205133.json',
-      'up_170948267_videos_smart_20251122_175045.json',
-      'up_17134369_videos_smart_20251122_115313.json',
-      'up_1724598_videos_smart_20251122_130605.json',
-      'up_17320022_videos_smart_20251122_160432.json',
-      'up_1773346_videos_smart_20251122_135338.json',
-      'up_17819768_videos_smart_20251122_180746.json',
-      'up_18202105_videos_smart_20251122_121522.json',
-      'up_1838326986_videos_smart_20251122_195420.json',
-      'up_1869712375_videos_smart_20251122_211144.json',
-      'up_1875245620_videos_smart_20251122_172706.json',
-      'up_2017611_videos_smart_20251122_161717.json',
-      'up_207261582_videos_smart_20251122_202423.json',
-      'up_2080529_videos_smart_20251122_183056.json',
-      'up_23947287_videos_smart_20251122_171449.json',
-      'up_25876945_videos_smart_20251122_120415.json',
-      'up_259333_videos_smart_20251122_110052.json',
-      'up_26032219_videos_smart_20251122_174523.json',
-      'up_261485584_videos_smart_20251122_170843.json',
-      'up_263090405_videos_smart_20251122_191901.json',
-      'up_280793434_videos_smart_20251122_194830.json',
-      'up_29329085_videos_smart_20251122_153232.json',
-      'up_294882749_videos_smart_20251122_113001.json',
-      'up_296092268_videos_smart_20251122_131932.json',
-      'up_304578055_videos_smart_20251122_142309.json',
-      'up_306936843_videos_smart_20251122_180142.json',
-      'up_313580179_videos_smart_20251122_171810.json',
-      'up_314521322_videos_smart_20251122_145800.json',
-      'up_32741563_videos_smart_20251122_170251.json',
-      'up_330415548_videos_smart_20251122_194214.json',
-      'up_33063673_videos_smart_20251122_204314.json',
-      'up_337312411_videos_smart_20251122_162751.json',
-      'up_353368172_videos_smart_20251122_104919.json',
-      'up_3546563922102817_videos_smart_20251122_210604.json',
-      'up_3546776042736296_videos_smart_20251122_175614.json',
-      'up_361775100_videos_smart_20251122_191302.json',
-      'up_375375_videos_smart_20251122_150756.json',
-      'up_37663924_videos_smart_20251122_200953.json',
-      'up_37754047_videos_smart_20251122_182453.json',
-      'up_386869863_videos_smart_20251122_163912.json',
-      'up_394609671_videos_smart_20251122_181919.json',
-      'up_395135643_videos_smart_20251122_154128.json',
-      'up_395877542_videos_smart_20251122_203609.json',
-      'up_39737405_videos_smart_20251122_125320.json',
-      'up_398877923_videos_smart_20251122_155303.json',
-      'up_401657359_videos_smart_20251122_123241.json',
-      'up_405370021_videos_smart_20251122_133104.json',
-      'up_406636263_videos_smart_20251122_133429.json',
-      'up_414350632_videos_smart_20251122_114653.json',
-      'up_419872064_videos_smart_20251122_124626.json',
-      'up_423895_videos_smart_20251122_153814.json',
-      'up_4253446_videos_smart_20251122_165614.json',
-      'up_42561463_videos_smart_20251122_205940.json',
-      'up_42870908_videos_smart_20251122_112407.json',
-      'up_437744340_videos_smart_20251122_181348.json',
-      'up_440544870_videos_smart_20251122_190632.json',
-      'up_452606628_videos_smart_20251122_202832.json',
-      'up_471303350_videos_smart_20251122_144641.json',
-      'up_474642651_videos_smart_20251122_165047.json',
-      'up_480680646_videos_smart_20251122_134737.json',
-      'up_483311105_videos_smart_20251122_150322.json',
-      'up_483840019_videos_smart_20251122_114107.json',
-      'up_493570956_videos_smart_20251122_143527.json',
-      'up_508416316_videos_smart_20251122_105526.json',
-      'up_511612578_videos_smart_20251122_141730.json',
-      'up_517184570_videos_smart_20251122_192436.json',
-      'up_517327498_videos_smart_20251122_193016.json',
-      'up_520031712_videos_smart_20251122_122649.json',
-      'up_520819684_videos_smart_20251122_163326.json',
-      'up_533459953_videos_smart_20251122_125902.json',
-      'up_5374954_videos_smart_20251122_122058.json',
-      'up_544336675_videos_smart_20251122_113621.json',
-      'up_546195_videos_smart_20251122_111344.json',
-      'up_5970160_videos_smart_20251122_185428.json',
-      'up_59905809_videos_smart_20251122_104254.json',
-      'up_60011_videos_smart_20251122_173305.json',
-      'up_627888730_videos_smart_20251122_184841.json',
-      'up_63231_videos_smart_20251122_120953.json',
-      'up_63486758_videos_smart_20251122_202341.json',
-      'up_63590_videos_smart_20251122_141207.json',
-      'up_66391032_videos_smart_20251122_111806.json',
-      'up_672328094_videos_smart_20251122_110626.json',
-      'up_686127_videos_smart_20251122_124244.json',
-      'up_691415738_videos_smart_20251122_172357.json',
-      'up_7212583_videos_smart_20251122_200233.json',
-      'up_72270557_videos_smart_20251122_144057.json',
-      'up_7349_videos_smart_20251122_132526.json',
-      'up_7946432_videos_smart_20251122_140542.json',
-      'up_86439234_videos_smart_20251122_125939.json',
-      'up_8739477_videos_smart_20251122_183646.json',
-      'up_89403459_videos_smart_20251122_184309.json',
-      'up_927587_videos_smart_20251122_130930.json',
-      'up_946974_videos_smart_20251122_164502.json',
-      'up_9728698_videos_smart_20251122_193653.json',
-      'up_99157282_videos_smart_20251122_152650.json'
+    // 整合数据文件列表 - 使用修复后的UP主数据
+    const integratedFiles = [
+      'UP主10119428_UP主10119428_视频数据.json',
+      'UP主11131476_UP主11131476_视频数据.json',
+      'UP主1140672573_UP主1140672573_视频数据.json',
+      'UP主11646119_UP主11646119_视频数据.json',
+      'UP主11870568_UP主11870568_视频数据.json',
+      'UP主125526_老番茄_视频数据.json',
+      'UP主12855005_UP主12855005_视频数据.json',
+      'UP主13164144_UP主13164144_视频数据.json',
+      'UP主13354765_UP主13354765_视频数据.json',
+      'UP主1335713025_UP主1335713025_视频数据.json',
+      'UP主1359172699_UP主1359172699_视频数据.json',
+      'UP主1372433_UP主1372433_视频数据.json',
+      'UP主14110780_UP主14110780_视频数据.json',
+      'UP主1455861172_UP主1455861172_视频数据.json',
+      'UP主1458143131_UP主1458143131_视频数据.json',
+      'UP主14804670_UP主14804670_视频数据.json',
+      'UP主1577804_UP主1577804_视频数据.json',
+      'UP主15960317_UP主15960317_视频数据.json',
+      'UP主1629347259_UP主1629347259_视频数据.json',
+      'UP主1653246909_UP主1653246909_视频数据.json',
+      'UP主168598_UP主168598_视频数据.json',
+      'UP主170948267_UP主170948267_视频数据.json',
+      'UP主17134369_UP主17134369_视频数据.json',
+      'UP主1724598_UP主1724598_视频数据.json',
+      'UP主17320022_UP主17320022_视频数据.json',
+      'UP主1773346_UP主1773346_视频数据.json',
+      'UP主17819768_UP主17819768_视频数据.json',
+      'UP主18202105_UP主18202105_视频数据.json',
+      'UP主1838326986_UP主1838326986_视频数据.json',
+      'UP主1869712375_UP主1869712375_视频数据.json',
+      'UP主1875245620_UP主1875245620_视频数据.json',
+      'UP主2017611_UP主2017611_视频数据.json',
+      'UP主207261582_UP主207261582_视频数据.json',
+      'UP主2080529_UP主2080529_视频数据.json',
+      'UP主23947287_UP主23947287_视频数据.json',
+      'UP主25876945_UP主25876945_视频数据.json',
+      'UP主259333_UP主259333_视频数据.json',
+      'UP主26032219_UP主26032219_视频数据.json',
+      'UP主261485584_UP主261485584_视频数据.json',
+      'UP主263090405_UP主263090405_视频数据.json',
+      'UP主280793434_UP主280793434_视频数据.json',
+      'UP主29329085_UP主29329085_视频数据.json',
+      'UP主294882749_UP主294882749_视频数据.json',
+      'UP主296092268_UP主296092268_视频数据.json',
+      'UP主304578055_UP主304578055_视频数据.json',
+      'UP主306936843_UP主306936843_视频数据.json',
+      'UP主313580179_UP主313580179_视频数据.json',
+      'UP主314521322_UP主314521322_视频数据.json',
+      'UP主32741563_UP主32741563_视频数据.json',
+      'UP主330415548_UP主330415548_视频数据.json',
+      'UP主33063673_UP主33063673_视频数据.json',
+      'UP主337312411_UP主337312411_视频数据.json',
+      'UP主353368172_UP主353368172_视频数据.json',
+      'UP主3546563922102817_UP主3546563922102817_视频数据.json',
+      'UP主3546776042736296_UP主3546776042736296_视频数据.json',
+      'UP主361775100_UP主361775100_视频数据.json',
+      'UP主375375_UP主375375_视频数据.json',
+      'UP主37663924_UP主37663924_视频数据.json',
+      'UP主37754047_UP主37754047_视频数据.json',
+      'UP主386869863_UP主386869863_视频数据.json',
+      'UP主394609671_UP主394609671_视频数据.json',
+      'UP主395135643_UP主395135643_视频数据.json',
+      'UP主395877542_UP主395877542_视频数据.json',
+      'UP主39737405_UP主39737405_视频数据.json',
+      'UP主398877923_UP主398877923_视频数据.json',
+      'UP主401657359_UP主401657359_视频数据.json',
+      'UP主405370021_UP主405370021_视频数据.json',
+      'UP主406636263_UP主406636263_视频数据.json',
+      'UP主414350632_UP主414350632_视频数据.json',
+      'UP主419872064_UP主419872064_视频数据.json',
+      'UP主423895_UP主423895_视频数据.json',
+      'UP主4253446_UP主4253446_视频数据.json',
+      'UP主42561463_UP主42561463_视频数据.json',
+      'UP主42870908_UP主42870908_视频数据.json',
+      'UP主437744340_UP主437744340_视频数据.json',
+      'UP主440544870_UP主440544870_视频数据.json',
+      'UP主452606628_UP主452606628_视频数据.json',
+      'UP主471303350_UP主471303350_视频数据.json',
+      'UP主474642651_UP主474642651_视频数据.json',
+      'UP主480680646_UP主480680646_视频数据.json',
+      'UP主483311105_UP主483311105_视频数据.json',
+      'UP主483840019_UP主483840019_视频数据.json',
+      'UP主493570956_UP主493570956_视频数据.json',
+      'UP主508416316_UP主508416316_视频数据.json',
+      'UP主511612578_UP主511612578_视频数据.json',
+      'UP主517184570_UP主517184570_视频数据.json',
+      'UP主517327498_罗翔说刑法_视频数据.json',
+      'UP主520031712_UP主520031712_视频数据.json',
+      'UP主520819684_UP主520819684_视频数据.json',
+      'UP主533459953_UP主533459953_视频数据.json',
+      'UP主5374954_UP主5374954_视频数据.json',
+      'UP主544336675_UP主544336675_视频数据.json',
+      'UP主546195_老番茄_视频数据.json',
+      'UP主5970160_UP主5970160_视频数据.json',
+      'UP主59905809_UP主59905809_视频数据.json',
+      'UP主60011_UP主60011_视频数据.json',
+      'UP主627888730_UP主627888730_视频数据.json',
+      'UP主63231_UP主63231_视频数据.json',
+      'UP主63486758_UP主63486758_视频数据.json',
+      'UP主63590_UP主63590_视频数据.json',
+      'UP主66391032_UP主66391032_视频数据.json',
+      'UP主672328094_UP主672328094_视频数据.json',
+      'UP主686127_籽岷_视频数据.json',
+      'UP主691415738_UP主691415738_视频数据.json',
+      'UP主7212583_UP主7212583_视频数据.json',
+      'UP主72270557_UP主72270557_视频数据.json',
+      'UP主7349_UP主7349_视频数据.json',
+      'UP主7946432_UP主7946432_视频数据.json',
+      'UP主86439234_UP主86439234_视频数据.json',
+      'UP主8739477_UP主8739477_视频数据.json',
+      'UP主89403459_UP主89403459_视频数据.json',
+      'UP主927587_UP主927587_视频数据.json',
+      'UP主946974_UP主946974_视频数据.json',
+      'UP主9728698_UP主9728698_视频数据.json',
+      'UP主99157282_UP主99157282_视频数据.json'
     ];
     
-    return allFiles;
+    return integratedFiles;
   } catch (error) {
     console.error('获取文件列表失败:', error);
     return [];
@@ -136,8 +135,8 @@ const getRandomElements = (array, count) => {
   return shuffled.slice(0, count);
 };
 
-// 加载真实爬取数据
-const loadCrawledData = async () => {
+// 加载整合数据
+const loadIntegratedData = async () => {
   try {
     const allFiles = await getAllDataFiles();
     
@@ -154,23 +153,27 @@ const loadCrawledData = async () => {
     // 加载每个UP主的数据，并随机选择2个视频
     for (const file of selectedFiles) {
       try {
-        const fileResponse = await fetch(`/data/crawled_results/${file}`);
+        const fileResponse = await fetch(`/data/integrated_results/${file}`);
         const fileData = await fileResponse.json();
         
         // 随机选择2个视频
         const randomVideos = getRandomElements(fileData, 2);
+        
+        // 从文件名中提取UP主真实名称
+        const upName = file.split('_')[1];
         
         // 转换为应用需要的格式
         const videos = randomVideos.map((item, index) => ({
           id: `${file}_${index}_${Date.now()}`,
           title: item.标题,
           bvid: item.BV号,
-          up: item.UP主,
+          up: upName, // 使用UP主真实名称
+          up_name: upName, // 同时设置up_name字段
           link: item.链接
         }));
         
         allVideos = [...allVideos, ...videos];
-        console.log(`从 ${file} 随机选择 ${videos.length} 个视频`);
+        console.log(`从 ${file} 随机选择 ${videos.length} 个视频，UP主: ${upName}`);
       } catch (error) {
         console.error(`加载文件 ${file} 失败:`, error);
       }
@@ -182,7 +185,7 @@ const loadCrawledData = async () => {
     
     return allVideos;
   } catch (error) {
-    console.error('加载爬取数据失败:', error);
+    console.error('加载整合数据失败:', error);
     
     // 如果加载失败，使用备用数据
     const backupData = [
@@ -200,6 +203,7 @@ const loadCrawledData = async () => {
       title: item.标题,
       bvid: item.BV号,
       up: item.UP主,
+      up_name: item.UP主,
       link: item.链接
     }));
   }
@@ -213,7 +217,7 @@ const VideoScreen = () => {
   useEffect(() => {
     const loadData = async () => {
       setLoading(true);
-      const videos = await loadCrawledData();
+      const videos = await loadIntegratedData();
       setRealVideos(videos);
       setLoading(false);
     };
@@ -278,7 +282,7 @@ const VideoScreen = () => {
               >
                 <h3 className="video-title">{video.title}</h3>
                 <p className="video-info">BV号: {video.bvid}</p>
-                <p className="video-info">UP主: {video.up}</p>
+                <p className="video-info">UP主: {video.up_name || video.up || '未知UP主'}</p>
               </div>
             ))}
           </>

@@ -1,0 +1,4997 @@
+[
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212",
+    "UP主ID": "239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "DeepMind联合UCL的2020深度学习12次系列讲座",
+    "链接": "https://www.bilibili.com/video/BV13a4y1v7Mz",
+    "BV号": "BV13a4y1v7Mz",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "[转载+翻译]GPT-3模型的论文解读学习-Language Models are Few-Shot Learners",
+    "链接": "https://www.bilibili.com/video/BV1sz411i7fC",
+    "BV号": "BV1sz411i7fC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "模型压缩Network Compression方法补充",
+    "链接": "https://www.bilibili.com/video/BV17z411B7Hk",
+    "BV号": "BV17z411B7Hk",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "神经网络的模型压缩方法Network Compression",
+    "链接": "https://www.bilibili.com/video/BV1Cg4y1B7zU",
+    "BV号": "BV1Cg4y1B7zU",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT18.217图论与加性组合Graph theory and additive combinatorics",
+    "链接": "https://www.bilibili.com/video/BV1H5411s7nb",
+    "BV号": "BV1H5411s7nb",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "麻省理工18.065矩阵方法（数据分析，信号处理，机器学习）",
+    "链接": "https://www.bilibili.com/video/BV1yg4y1q7KK",
+    "BV号": "BV1yg4y1q7KK",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "线性代数台大李宏毅老师——面向应用讲解",
+    "链接": "https://www.bilibili.com/video/BV1ek4y1k7rZ",
+    "BV号": "BV1ek4y1k7rZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "MIT-18.06-线性代数【中英双字】Gilbert Strang教授经典教程",
+    "链接": "https://www.bilibili.com/video/BV1uK4y187ep",
+    "BV号": "BV1uK4y187ep",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【SIGGRAPH 2020】一致的视频深度估计——Consistent Video Depth Estimation",
+    "链接": "https://www.bilibili.com/video/BV1Fa4y1i7zL",
+    "BV号": "BV1Fa4y1i7zL",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【2020 NYU Yann LeCun助教讲解】深度学习课程(PyTorch版本) 持续更新（课件 | 英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1Rk4y1r7vc",
+    "BV号": "BV1Rk4y1r7vc",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【非欧几何】直觉在这不可靠",
+    "链接": "https://www.bilibili.com/video/BV1WC4y1W71b",
+    "BV号": "BV1WC4y1W71b",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "生命游戏——Game of Life",
+    "链接": "https://www.bilibili.com/video/BV1QT4y1g7Eh",
+    "BV号": "BV1QT4y1g7Eh",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【地上真凉】DL大佬面对面——Ng吴恩达与几位领域牛人的对话",
+    "链接": "https://www.bilibili.com/video/BV1o5411t7GT",
+    "BV号": "BV1o5411t7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【10分快谈】计算机科学小讲堂",
+    "链接": "https://www.bilibili.com/video/BV1pK4y1k77N",
+    "BV号": "BV1pK4y1k77N",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "【推荐】李宏毅DL课程最新补充：深度学习的优化器 & 解释模型",
+    "链接": "https://www.bilibili.com/video/BV1Bz411B7kR",
+    "BV号": "BV1Bz411B7kR",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "计算机世界封神榜",
+    "链接": "https://www.bilibili.com/video/BV1bt4y1277Z",
+    "BV号": "BV1bt4y1277Z",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford cs330（中英字幕）：深度多任务和元学习（完整视频 | 课程资料）",
+    "链接": "https://www.bilibili.com/video/BV1He411s7K4",
+    "BV号": "BV1He411s7K4",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "阿尔卑斯山雪道(Alpe d'Huez)单板滑雪第1视角",
+    "链接": "https://www.bilibili.com/video/BV1ei4y187ZB",
+    "BV号": "BV1ei4y187ZB",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN相关—Stanford CS224W 图网络机器学习2019（完整课程 | 英文字幕| 作业+PPT）",
+    "链接": "https://www.bilibili.com/video/BV1nQ4y1K7ze",
+    "BV号": "BV1nQ4y1K7ze",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "斯坦福cs231n计算机视觉系列课程（英文字幕）",
+    "链接": "https://www.bilibili.com/video/BV1h54y1d75X",
+    "BV号": "BV1h54y1d75X",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "Stanford CS230-Deep Learning(吴恩达 | 英文字幕)",
+    "链接": "https://www.bilibili.com/video/BV1hp4y1C7wM",
+    "BV号": "BV1hp4y1C7wM",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "GNN图神经网络相关讲座（汇总ing）",
+    "链接": "https://www.bilibili.com/video/BV1j54y1975p",
+    "BV号": "BV1j54y1975p",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05. 深度学习进阶内容",
+    "链接": "https://www.bilibili.com/video/BV1uK411j7GT",
+    "BV号": "BV1uK411j7GT",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "04.李宏毅深度学习理论10讲",
+    "链接": "https://www.bilibili.com/video/BV1u54y1975W",
+    "BV号": "BV1u54y1975W",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.李宏毅老师深度强化学习",
+    "链接": "https://www.bilibili.com/video/BV1e54y1d7hH",
+    "BV号": "BV1e54y1d7hH",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "单板滑雪—来自SnowboardProCamp",
+    "链接": "https://www.bilibili.com/video/BV18A411h7h5",
+    "BV号": "BV18A411h7h5",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅教授—生成对抗网络（GAN）入门讲解，十课时全",
+    "链接": "https://www.bilibili.com/video/BV1Bg4y187WC",
+    "BV号": "BV1Bg4y187WC",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "01. 台大李宏毅老师ML/DL系列教程—机器学习基础部分（经典）",
+    "链接": "https://www.bilibili.com/video/BV17t4y1U7hw",
+    "BV号": "BV17t4y1U7hw",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "台大李宏毅助教讲解GNN图神经网络",
+    "链接": "https://www.bilibili.com/video/BV1G54y1971S",
+    "BV号": "BV1G54y1971S",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业安排—HW02",
+    "链接": "https://www.bilibili.com/video/BV1Xp4y1C7Ez",
+    "BV号": "BV1Xp4y1C7Ez",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "07.语音识别- RNN-T训练 (6_7)",
+    "链接": "https://www.bilibili.com/video/BV1me411x7DZ",
+    "BV号": "BV1me411x7DZ",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "作业—HW01",
+    "链接": "https://www.bilibili.com/video/BV1yk4y197TF",
+    "BV号": "BV1yk4y197TF",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "10.语音转换-CycleGAN和StarGAN（2_2）",
+    "链接": "https://www.bilibili.com/video/BV17k4y1R75K",
+    "BV号": "BV17k4y1R75K",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "11. 语音分离",
+    "链接": "https://www.bilibili.com/video/BV1Dc411h7Yt",
+    "BV号": "BV1Dc411h7Yt",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "06.语音识别-HMM，CTC和RNN-T（5_7）的对齐方式（选讲）",
+    "链接": "https://www.bilibili.com/video/BV1KA411b7Q9",
+    "BV号": "BV1KA411b7Q9",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "05.语音识别-HMM (4_7)选讲",
+    "链接": "https://www.bilibili.com/video/BV1xZ4y1x76F",
+    "BV号": "BV1xZ4y1x76F",
+    "UP主": "UP主239458212"
+  },
+  {
+    "标题": "03.语音识别- LAS系统讲解(Listen-Attend-Spell)",
+    "链接": "https://www.bilibili.com/video/BV1QC4y1s73Y",
+    "BV号": "BV1QC4y1s73Y",
+    "UP主": "UP主239458212"
+  }
+]

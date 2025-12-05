@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  bilibili-web-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: builder
+    image: bilibili-web-app:optimized
+    container_name: bilibili-web-app
+    ports:
+      - "1009:1009"
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:1009"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # 如果需要数据库或其他服务，可以在这里添加
+  # redis:
+  #   image: redis:alpine
+  #   container_name: bilibili-redis
+  #   ports:
+  #     - "6379:6379"
+  #   volumes:
+  #     - redis_data:/data
+  #   restart: unless-stopped
+
+# volumes:
+#   redis_data:

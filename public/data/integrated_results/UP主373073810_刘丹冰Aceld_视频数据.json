@@ -1,0 +1,836 @@
+[
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810",
+    "来源文件": "/Users/imac/Downloads/405-爬虫项目集合/05-数据整合项目/raw_data/up_373073810_videos_20251112_160012.json",
+    "UP主名称": "刘丹冰Aceld",
+    "UP主名称_已修复": true
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810",
+    "来源文件": "/Users/imac/Downloads/405-爬虫项目集合/05-数据整合项目/raw_data/up_373073810_videos_20251112_160012.json",
+    "UP主名称": "刘丹冰Aceld",
+    "UP主名称_已修复": true
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810",
+    "来源文件": "/Users/imac/Downloads/405-爬虫项目集合/05-数据整合项目/raw_data/up_373073810_videos_20251112_160012.json",
+    "UP主名称": "刘丹冰Aceld",
+    "UP主名称_已修复": true
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810",
+    "来源文件": "/Users/imac/Downloads/405-爬虫项目集合/05-数据整合项目/raw_data/up_373073810_videos_20251112_160012.json",
+    "UP主名称": "刘丹冰Aceld",
+    "UP主名称_已修复": true
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810",
+    "来源文件": "/Users/imac/Downloads/405-爬虫项目集合/05-数据整合项目/raw_data/up_373073810_videos_20251112_160012.json",
+    "UP主名称": "刘丹冰Aceld",
+    "UP主名称_已修复": true
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810",
+    "来源文件": "/Users/imac/Downloads/405-爬虫项目集合/05-数据整合项目/raw_data/up_373073810_videos_20251112_160012.json",
+    "UP主名称": "刘丹冰Aceld",
+    "UP主名称_已修复": true
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810",
+    "来源文件": "/Users/imac/Downloads/405-爬虫项目集合/05-数据整合项目/raw_data/up_373073810_videos_20251112_160012.json"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810",
+    "来源文件": "/Users/imac/Downloads/405-爬虫项目集合/05-数据整合项目/raw_data/up_373073810_videos_20251112_160012.json"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810",
+    "来源文件": "/Users/imac/Downloads/405-爬虫项目集合/05-数据整合项目/raw_data/up_373073810_videos_20251112_160012.json"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810",
+    "来源文件": "/Users/imac/Downloads/405-爬虫项目集合/05-数据整合项目/raw_data/up_373073810_videos_20251112_160012.json"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810",
+    "来源文件": "/Users/imac/Downloads/405-爬虫项目集合/05-数据整合项目/raw_data/up_373073810_videos_20251112_160012.json"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810",
+    "来源文件": "/Users/imac/Downloads/405-爬虫项目集合/05-数据整合项目/raw_data/up_373073810_videos_20251112_160012.json"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810",
+    "UP主ID": "373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Easy搞定Golang设计模式(Go语言设计模式，如此简单)",
+    "链接": "https://www.bilibili.com/video/BV1Eg411m7rV/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1Eg411m7rV",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "深入理解Linux中网络I/O复用并发模型",
+    "链接": "https://www.bilibili.com/video/BV1jK4y1N7ST/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1jK4y1N7ST",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "8小时转职Golang工程师(如果你想低成本学习Go语言)",
+    "链接": "https://www.bilibili.com/video/BV1gf4y1r79E/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1gf4y1r79E",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang中GC回收机制三色标记与混合写屏障",
+    "链接": "https://www.bilibili.com/video/BV1wz4y1y7Kd/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wz4y1y7Kd",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "Golang深入理解GPM模型",
+    "链接": "https://www.bilibili.com/video/BV19r4y1w7Nx/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV19r4y1w7Nx",
+    "UP主": "UP主373073810"
+  },
+  {
+    "标题": "zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)",
+    "链接": "https://www.bilibili.com/video/BV1wE411d7th/?spm_id_from=333.1387.upload.video_card.click",
+    "BV号": "BV1wE411d7th",
+    "UP主": "UP主373073810"
+  }
+]

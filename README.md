@@ -46,10 +46,24 @@ npm run build
 npm run serve
 ```
 
+### Docker部署
+```bash
+# 构建镜像
+./build-docker.sh
+
+# 运行容器
+./run-docker.sh
+
+# 或使用Docker Compose
+docker-compose up -d
+```
+
+应用将在 http://localhost:10015 运行
+
 ## 项目结构
 
 ```
-0015-web-pure/
+0015-bilibili-web-app/
 ├── public/
 │   └── index.html          # HTML模板
 ├── src/
